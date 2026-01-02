@@ -1,0 +1,6 @@
+# IronForge Fitness - Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ironforge.in/sitemap.xml
